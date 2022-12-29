@@ -1,5 +1,5 @@
 # COURSE
-SQL for Data Analysis : Beginner MySQL Business Intelligence
+[SQL for Data Analysis : Beginner MySQL Business Intelligence]
 
 # THE SITUATION
 
