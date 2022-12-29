@@ -1,5 +1,4 @@
-# COURSE
-[SQL for Data Analysis : Beginner MySQL Business Intelligence]
+# [SQL for Data Analysis : Beginner MySQL Business Intelligence](https://bgt1499.github.io/Barbara_Portfolio/)
 
 # THE SITUATION
 
